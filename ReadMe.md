@@ -2,10 +2,10 @@ This is an adaptation of langraph voyager platform for my web navigation using l
 
 Steps:
 1. Clone the repository
-2. Setup an environment
-3. run agent
-
-To setup an environment:
+   ```
+git clone https://github.com/almasudme/web_navigation_agent_langgraph.git
+   ```
+3. Setup an environment
 ```
 conda create -n env_name python=3.10
 conda activate env_name
