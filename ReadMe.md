@@ -5,7 +5,7 @@ Steps:
 ```
 git clone https://github.com/almasudme/web_navigation_agent_langgraph.git
 ```
-3. Setup an environment
+2. Setup an environment
 ```
 conda create -n env_name python=3.10
 conda activate env_name
