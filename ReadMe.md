@@ -1,1 +1,1 @@
-## a langgraph agen to support web navigation
+## a langgraph agent to support web navigation
